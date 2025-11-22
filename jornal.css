@@ -19,7 +19,7 @@ style.css
     margin: 0 auto 10px auto;
  }
  header {
-    background-color: #225;
+    background-color: #333;
     padding: 20px;
     text-align: center;
     color: white;
@@ -64,7 +64,7 @@ style.css
     display: block;
  }
  footer {
-    background-color: #225;
+    background-color: #222;
     color: white;
     padding: 20px;
     text-align: center;
